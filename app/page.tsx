@@ -1,5 +1,5 @@
 import ChartView from "./components/ChartView";
-import Header from "./components/Header";
+// import Header from "./components/Header";
 import Image from "next/image";
 import background from "../public/images/bg.png";
 import Foto from "./components/Foto";
