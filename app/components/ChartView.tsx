@@ -26,8 +26,8 @@ ChartJS.register(
   Filler,
   ArcElement,
 );
-const labels = ["Rizal-Askana", "Alif-Embun", "Nayla-Alisha"];
-const datasets = [1000, 400, 500];
+const labels: string[] = ["Rizal-Askana", "Alif-Embun", "Nayla-Alisha","Tidak Sah"];
+const datasets: number[] = [837, 115, 725, 89];
 ChartJS.defaults.font.size = 40;
 
 const ChartView = () => {
@@ -42,11 +42,13 @@ const ChartView = () => {
           "rgba(255, 99, 132, 1)",
           "rgba(255, 159, 64, 1)",
           "rgba(255, 205, 86, 1)",
+          "rgba(75, 192, 192, 1)",
         ],
         borderColor: [
           "rgb(255, 99, 132)",
           "rgb(255, 159, 64)",
           "rgb(255, 205, 86)",
+          "rgba(75, 192, 192)",
         ],
     
       },
