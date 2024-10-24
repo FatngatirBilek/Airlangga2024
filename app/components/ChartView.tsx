@@ -27,7 +27,7 @@ ChartJS.register(
   ArcElement,
 );
 const labels = ["Rizal-Askana", "Alif-Embun", "Nayla-Alisha"];
-const datasets = [1000, 400, 500];
+const datasets = [1002, 400, 500];
 ChartJS.defaults.font.size = 40;
 
 const ChartView = () => {
