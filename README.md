@@ -32,6 +32,7 @@ Buka [http://localhost:3000](http://localhost:3000) menggunakan browser untuk me
 Web ini menggunakan system auth prototype. masukkan email random dan password untuk masuk. (ga guna jirr •𐃷•)
 
 ## Preview ⸜(｡˃ ᵕ ˂ )⸝♡
+## The data used in the preview is only an example, not based on real results
 <img height="400" src="https://github.com/user-attachments/assets/f11e7b48-de55-42b2-bd8e-c08255b05b77"  />
 <br>
 
