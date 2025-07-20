@@ -54,7 +54,7 @@
 
 .card__data {
     width: 280px;
-    background-color: pink;
+    background-color: #7fbc8b;
     padding: 1.5rem 2rem;
     box-shadow: 0 8px 20px hsla(0, 0%, 0%, 0.15);
     border-radius: 1rem;
